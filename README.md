@@ -5,7 +5,7 @@ Customized BASH profile and various small utility scripts that I use to be more 
 
 To install, use the following command on the commandline:
 
-    curl "https://raw.githubusercontent.com/michaelsafyan/my-nix-setup/master/setup.sh" | bash
+    curl "https://raw.githubusercontent.com/maxpeal/my-nix-setup/master/setup.sh" | bash
     
 ## Extending
 The BASH configuration that this installs automatically loads:
