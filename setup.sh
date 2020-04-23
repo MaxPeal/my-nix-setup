@@ -1,6 +1,6 @@
 #! /bin/bash
 
-REPOSITORY_BASE_URL="https://raw.githubusercontent.com/michaelsafyan/my-nix-setup/master"
+REPOSITORY_BASE_URL="https://raw.githubusercontent.com/maxpeal/my-nix-setup/master"
 
 function mynixsetup__Install() {
     mynixsetup__Log "======================================="
